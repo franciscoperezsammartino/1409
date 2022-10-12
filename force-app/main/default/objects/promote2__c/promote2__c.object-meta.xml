@@ -153,9 +153,9 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>obj1</label>
+    <label>promote2</label>
     <nameField>
-        <label>obj1 Name</label>
+        <label>promote2 Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>plural</pluralLabel>
